@@ -1,0 +1,14 @@
+{
+  "name": "hunt-top-countries",
+  "version": "1.0.0",
+  "description": "Sort top countries based on the official hunt api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
